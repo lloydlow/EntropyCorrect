@@ -1,0 +1,13 @@
+Package: EntropyCorrect
+Title: Entropy correction of a Multiple Sequence Alignment (MSA) sample
+Version: 0.1
+Author: lloyd low <lloydlow@hotmail.com>
+Maintainer: lloyd low <lloydlow@hotmail.com>
+Description: This software is based on linear regression, resampling and Shannon
+    entropy calculation to estimate the infinite population entropy of a MSA sample.
+Depends:
+    R (>= 3.2.2)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
